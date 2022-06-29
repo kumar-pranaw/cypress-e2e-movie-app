@@ -1,2 +1,6 @@
-# cypress-e2e-movie-app
-In this automation I am going to cover how can we automate shadow UI
+
+# Movies App
+
+This directory contains a Node.js application. 
+
+Please install the npm dependencies and run it npm start.
